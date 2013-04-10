@@ -1,0 +1,13 @@
+Sharpen Your Pencil - Look How Easy It Is To Write In Java - pg 5
+
+Declare a String named name and set it to the string “Fido”;
+Declare a Dog object named myDog and set it to values of name/size.
+Subtract 5 from size and set it to variable x.
+Make myDog bark 8 times if x is less than 15.
+myDog will play as long as x is greater than 3.
+create an integer array with 4 values -> 2 4 6 8.
+Print “Hello” to standard out.
+Print “Dog: Fido”.
+Create a String called num and set it to the string “8”.
+Extract the integer value from the string “num” and set it to a new int variable z.
+Try and read the file myFile.txt, but if it doesn’t exist, print “File not found.”
